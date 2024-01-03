@@ -1,10 +1,10 @@
-#Alunos
+Alunos
 - Fellipe Tripovichy 9850332
 - Heitor Camilo de Freitas e Oliveira 11297785
 - Henrique Delgado Franzin 11218643
 
-#Vídeo de explicação
-[Video](https://drive.google.com/file/d/19gc0qAU7K2HKw7TkqNhkHvUVCelU3neq/view?usp=sharing)
+Vídeo de explicação
+https://drive.google.com/file/d/19gc0qAU7K2HKw7TkqNhkHvUVCelU3neq/view?usp=sharing
 
 Manual:
 
